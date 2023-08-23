@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+background:linear-gradient( to right,rgb(14, 14, 14),rgb(72, 70, 70))
+}
+
+/* ThemeToggle.module.css */
+.theme-toggle {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .theme-toggle.light {
+    background-color: #fff;
+    color: #007bff;
+  }
+  
+  .theme-toggle.dark {
+    background-color: #333;
+    color: #fff;
+  }
+  
