@@ -5,5 +5,4 @@ export default function Home() {
  
 }
 
-// mongo db.
-// MONGODB_URI=mongodb+srv://shubhbham:<password>@cluster0.zscle6k.mongodb.net/
+
